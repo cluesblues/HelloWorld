@@ -1,1 +1,1 @@
-msbuild HelloWorld.sln /p:Platform="Any CPU"
+msbuild HelloWorld.sln /p:Platform="Any CPU" /t:rebuild
